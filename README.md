@@ -1,5 +1,5 @@
-stuff involving resturants
+small javascript library for reprojecting stuff as the name implies works only on [lambert conformal conic](http://en.wikipedia.org/wiki/Lambert_conformal_conic_projection)
 
-will probobly split the reporjection from the boston resturants at some point.
+origionally from [here](http://gmaps-utility-gis.googlecode.com/svn/trunk/v3samples/customprojection.html) which is probobly apache liscensed.
 
-reprojection stuff from google maps demo and is probobly apache lisenced
+view [an example](http://calvinmetcalf.github.com/lcc) based on [Boston](http://www.cityofboston.gov/doit/databoston/app/data.aspx) data.
